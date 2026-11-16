@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Asfand Yar Ali 👋
 
-<!--
-**shasfi/shasfi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering graduate and developer interested in building useful web applications, digital products, and practical online tools.
 
-Here are some ideas to get you started:
+## 🚀 My Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### AsfiTools
+Free online tools for PDF, images, video, audio, text, developer utilities, calculators, and everyday tasks.
+
+🌐 https://asfitools.online/
+
+### NexBuild
+A digital development studio providing web development, mobile applications, AI automation, UI/UX, and software solutions.
+
+🌐 https://nexbuild.online/
+
+## 🛠️ Technologies & Skills
+
+- HTML, CSS, JavaScript
+- Tailwind CSS, Bootstrap
+- PHP, Laravel, MySQL
+- Python, Flask, FastAPI
+- Dart and REST APIs
+- Git and GitHub
+
+## 🎯 Current Interests
+
+- Web Application Development
+- AI-powered Applications
+- SEO and Web Performance
+- Building Useful Digital Products
+
+## 🌐 Connect & Explore
+
+- GitHub: https://github.com/shasfi
+- AsfiTools: https://asfitools.online/
+- NexBuild: https://nexbuild.online/
+
+Thanks for visiting my profile!
